@@ -1,0 +1,29 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "number formatter script",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stallkid/number-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "formatter",
+    "node.js",
+    "node"
+  ],
+  "author": "stallkid <renan.asthusius@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stallkid/number-formatter/issues"
+  },
+  "homepage": "https://github.com/stallkid/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
