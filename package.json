@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "@stallkid/number-formatter",
   "version": "0.1.0",
   "description": "number formatter script",
   "main": "index.js",
